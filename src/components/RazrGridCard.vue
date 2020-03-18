@@ -93,7 +93,7 @@ export default {
               '"sort": ["razr"],' +
 
               '"filter": {' +
-              '"filter1": "' + this.filter + '"' +
+              '"filter1": "' + (this.filter ? this.filter : '') + '"' +
               '}' +
 
               '}' +

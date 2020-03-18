@@ -2,7 +2,7 @@
     <v-container fluid>
         <v-row>
             <v-col>
-                <v-input v-model="userLogin" label="Название роли" class="input_style_2 mt8" width="700px"/>
+                <v-input v-model="userLogin" label="Логин пользователя" class="input_style_2 mt8" width="700px"/>
             </v-col>
         </v-row>
         <v-row>

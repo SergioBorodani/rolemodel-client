@@ -20,6 +20,7 @@
     </div>
 </template>
 
+
 <script>
 //import HelloWorld from './components/HelloWorld.vue';
 //import PoljzovateljGridCard from './components/PoljzovateljGridCard'
@@ -64,9 +65,3 @@ export default {
 };
 </script>
 
-<style>
-
-    @import './colorVariables.css';
-    @import './styles.css';
-
-</style>
