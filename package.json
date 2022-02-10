@@ -13,7 +13,7 @@
     "axios": "0.18.0",
     "core-js": "^3.6.4",
     "lyra-grid": "^1.2.6",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "vue": "^2.6.11",
     "vue-axios": "2.1.1",
     "vue-router": "3.0.6",
